@@ -1,3 +1,6 @@
+//uses nested loops to check every possible pair of elements in the array and finds the pair whose sum equals the target.
+
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
